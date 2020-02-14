@@ -1,0 +1,8 @@
+Nom Notes
+Gagnon Julie 100 100 100 100 100
+Gendron Paul 100 80 72 50 80
+Moquin Roger 80 50 77.5 53 12
+Pitt Brad 99 100 80 79 100
+Gagnon Alain 100 99 80 82 75
+Allard Benoit 40 22 70 78 80
+Tetro Pierre 60 80 77 56 88.5

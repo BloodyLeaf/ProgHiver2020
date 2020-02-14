@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\piera\Desktop\school\Winter 2020\Programation objet\lab4\source\source\Source.cpp(24,16): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\piera\Desktop\school\Winter 2020\Programation objet\lab4\source\source\Source.cpp(36,20): warning C4018: '<' : incompatibilité signed/unsigned
+  source.vcxproj -> C:\Users\piera\Desktop\school\Winter 2020\Programation objet\lab4\source\Debug\source.exe
